@@ -1,4 +1,4 @@
-# Trim-MonitorEdid
+# LG-Monitor-Stutter-Fix
 
 PowerShell script to fix a Windows bug that causes system-wide stutter on certain monitors by trimming their EDID mode lists.
 
